@@ -1,3 +1,5 @@
+#Configuration Backup Script v1.0
+
 Created by TrentoNodeTeam (Trentino Network Srl)
 
 In this section we will include the scripts to backup the configuration 
